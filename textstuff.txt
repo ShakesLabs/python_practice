@@ -1,0 +1,21 @@
+hello :w
+C
+
+
+
+
+
+D
+C
+C
+D
+B
+B
+B
+B
+A
+A
+A
+A
+A
+       
